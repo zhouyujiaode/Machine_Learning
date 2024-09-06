@@ -86,8 +86,8 @@ def chooseBestFeatureToSplit(dataSet):
 
 
 def main():
-	dataArr = loadDataSet("/home/liud/PycharmProjects/Machine_Learning/Decision_Tree/data.txt")
+	dataArr = loadDataSet("\machine\Machine_Learning\Decision_Tree\data.txt")
 
 if __name__ == '__main__':
 	main()
-	print 'Success'
+	print('Success')
